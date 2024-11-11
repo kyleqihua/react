@@ -1,6 +1,4 @@
 import React from "react";
-// import ReactDOM from "react-dom/client";
-import { useState, useEffect } from "react";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Counter from "./components/pages/Counter";
 import NotFound from "./components/pages/NotFound";
